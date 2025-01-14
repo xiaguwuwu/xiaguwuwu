@@ -1,6 +1,10 @@
 ## Hi there 👋
 ✨ A master's student at XJTU.
 
+### Current Works
+🌱 I’m currently learning how to be a good PM
+🔭 I’m currently working on Power grid
+📕 Wenqing
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaguwuwu)
 <!--
 **xiaguwuwu/xiaguwuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
