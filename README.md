@@ -2,7 +2,7 @@
 ✨ A master's student at XJTU.
 
 ### Current Works
-+ 🌱 I’m currently learning how to be a good PM
++ 🌱 I’m currently learning how to be a good Golang developer
 + 🔭 I’m currently working on Power grid
 + 📕 Wenqing
 
