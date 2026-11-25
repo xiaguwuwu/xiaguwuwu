@@ -13,10 +13,12 @@ I’m building a local-first job search workbench that brings applications, inte
 ## 📂 Product case studies
 
 **ToRouter** · LLM API gateway  
-Designed onboarding for users connecting AI coding tools, built a seven-page interactive prototype, and shipped four website features. [Read the ToRouter case study](https://musteats.top/en/cases/torouter.html)
+Designed onboarding for AI coding tools, built a seven-page interactive prototype, and shipped four website features.  
+[Read the ToRouter case study](https://musteats.top/en/cases/torouter.html)
 
 **VerseIn** · Generative video and images  
-Used 692 queue records to revise wait-time estimates for free video generation. I also used engagement data to reorder templates. [Read the VerseIn queue case study](https://musteats.top/en/cases/queue-eta.html)
+Revised free-queue wait estimates using 692 records and reordered templates using engagement data.  
+[Read the VerseIn queue case study](https://musteats.top/en/cases/queue-eta.html)
 
 ## ✍️ Writing
 
